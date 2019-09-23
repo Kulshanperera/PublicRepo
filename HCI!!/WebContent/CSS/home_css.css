@@ -1,0 +1,112 @@
+@charset "ISO-8859-1";
+/*page header*/
+  
+body{
+	
+	background-color:#F0F8FF;
+}
+    
+    /*page heder dep name*/
+    h4{
+    
+    	color: white;
+  		text-shadow: 5px 10px 4px #000000;
+    
+    }
+    
+    /*header logo*/
+    
+     .header-logo{
+      border-radius:50%;
+      width:50px;
+      height:50px;
+    }
+      /*footer logo*/
+    
+     .footer-logo{
+      border-radius:50%;
+      width:30px;
+      height:30px;
+    }
+.sidenav {
+  height: 100%;
+  width: 180px;
+  position: fixed;
+  z-index: 1;
+  top: 0px;
+  bottom:;
+
+  background: #D5DBDB;
+  overflow-x: hidden;
+  padding-top: 100px;
+  padding-top: 100px;
+}
+
+.sidenav a {
+  padding: 2px 8px 6px 1px;
+  text-decoration: none;
+  font-family:Franklin Gothic Medium;
+  font-size: 20px;
+  color: darkblue;
+  display: block;
+  font-weight: bold;
+}
+
+.sidenav a:hover {
+  color: black;
+}
+
+
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+
+
+
+.news{
+	
+	margin-top:70px;
+	margin-left:1000px;
+	margin-right:5px;
+
+	}
+	
+	
+	
+		/*search*/
+	.search{
+	
+	
+	margin-top:80px;
+	margin-left:500px;
+	margin-right:500px;
+	
+	}
+	
+#searchbar {
+    border-radius: 25px;
+    border: 2px solid lightblue;
+    padding: 20px; 
+    width: 200px;
+    height: 15px;    
+}
+
+
+.searchbutton {border-radius: 12px;
+			color:blue;
+}
+	
+	
+	
+	.home-content{
+	
+	margin-top:;
+	margin-left:250px;
+	padding-bottom:100px;
+	
+	
+	
+	}

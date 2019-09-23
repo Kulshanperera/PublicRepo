@@ -1,0 +1,21 @@
+a:link {
+  background-color: none;
+}
+
+a:visited {
+  background-color: 0000CC;
+}
+
+a:hover {
+  background-color: #FFD700;
+}
+
+a:active {
+  background-color: hotpink;
+} 
+
+.font{
+	 font-size: 200px;
+	
+}
+
