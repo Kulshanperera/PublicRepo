@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+body{
+	background-color: #F0F8FF;
+}
+table1,th,td{
+	border: 1px solid white;
+	
+}
+.card{
+	margin-left:550px;
+	margin-top:40px;
+	text-align:justify;
+	
+}
+button{
+  background-color: #4d4dff;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+ 
+
+}
+button{
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+link{
+	margin-left:2050px;
+	margin-top:50px;
+}
+
+.topic{
+	margin-top:100px;
+}
